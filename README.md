@@ -2,7 +2,7 @@
 Valentyn kalinin, web/JS development student
 Here are some of my practice works:
 
-[One-page adaptive website on flexbox](https://valkln.github.io/js-calc/)
+[One-page adaptive website on flexbox](https://valkln.github.io/binary/)
 
 
 [Flappy-bird game on JS](https://valkln.github.io/flappy-bird/)
