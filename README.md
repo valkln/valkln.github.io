@@ -15,3 +15,5 @@ Here are some of my practice works:
 
 
 [Simple 4-operations calculator on JS](https://valkln.github.io/js-calc/)
+
+[Practicing layout, using Slick Slider, SCSS. Work in progress](https://valkln.github.io/fusion/)
